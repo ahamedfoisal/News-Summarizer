@@ -56,7 +56,7 @@ News-Summarizer/
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Muneeb-Alvi/News-Summarizer.git
+   git clone https://github.com/ahamedfoisal/News-Summarizer.git
    ```
 
 2. **Navigate to the Project Directory**:
